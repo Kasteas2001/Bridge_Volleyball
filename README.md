@@ -5,10 +5,10 @@ The project does not use additional plugins
 
 
 ### The Task to create  volleyball game was completed in the **Complete 1st quest**
-Folder to view task Bridge_Volleyball\Content\Valleyball\Maps\ValleyBall.umap
+Map path to view task Bridge_Volleyball\Content\Valleyball\Maps\ValleyBall.umap
 ![Иллюстрация к проекту](https://github.com/Kasteas2001/Bridge_Volleyball/raw/master/README_Image/2.png)
 
 
 ### The Task to create a rope bridge was completed in the **Create Rope Bridge**
-Folder to view task Bridge_Volleyball\Content\Bridge\Maps\Bridge.umap
+Map path to view task Bridge_Volleyball\Content\Bridge\Maps\Bridge.umap
 ![Иллюстрация к проекту](https://github.com/Kasteas2001/Bridge_Volleyball/raw/master/README_Image/1.png)
