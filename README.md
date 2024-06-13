@@ -11,3 +11,4 @@ Falder to view task Bridge_Volleyball\Content\Valleyball\Maps\ValleyBall.umap
 
 ### The Task to create a rope bridge was completed in the **Create Rope Bridge**
 Falder to view task C:\Users\Kostya\Documents\Unreal Projects\Bridge_Volleyball\Content\Bridge\Maps\Bridge.umap
+![Иллюстрация к проекту](https://github.com/Kasteas2001/Bridge_Volleyball/raw/master/README_Image/1.png)
